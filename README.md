@@ -19,7 +19,7 @@ It supports several operations such as getting the number of nodes, getting numb
 - *node.c*: Implementation for node elements in the graph.
 - *node.h*: Header file for node.
 - *types.h*: Generic header. 
-- *main.c*: Program which perform a series of tests and outputs results.
+- *main.c*: Program which performs a series of tests and outputs results.
 - *makefile*: Rule for 'make' to compile and execute main.
 
 ## Usage
